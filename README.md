@@ -1,2 +1,1 @@
-# Lesson-7-Hands-On
-Hand on project for lesson 7 in class FSWO101-3
+For your Lesson 7 Hands-On, you will be practicing your new skills working with the DOM.
